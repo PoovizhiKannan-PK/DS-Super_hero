@@ -6,4 +6,4 @@ Cleansed the data by removing unwanted characters, replaced them with more meani
 
 Plotted graphs using matplotlib and Power Bi Tool. 
 
-View EDA.ipynba file
+View EDA.ipynb file
